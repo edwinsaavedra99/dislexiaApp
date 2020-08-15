@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 62e652486c900ba44ae71196eeb98b3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CasillaPrefab: {fileID: 7477180511067897261, guid: 2d8a79208e07d90419c6dfc9e552940a,
+      type: 3}
+  - TextoPrefab: {fileID: 1978378242098828513, guid: ab285cc2c9d822849a93c64c35f21331,
+      type: 3}
+  - Blanco: {instanceID: 0}
+  - Negro: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
